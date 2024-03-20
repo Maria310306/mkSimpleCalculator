@@ -27,3 +27,5 @@ else if (Answer.operator === "Division") {
     console.log(Answer.firstInteger / Answer.secondInteger);
 }
 else ("Please enter a valid Integer");
+
+console.log("Thank you!");

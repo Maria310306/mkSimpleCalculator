@@ -24,3 +24,4 @@ else if (Answer.operator === "Division") {
 }
 else
     ("Please enter a valid Integer");
+console.log("Thank you!");
